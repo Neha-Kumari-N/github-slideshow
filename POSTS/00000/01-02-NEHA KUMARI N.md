@@ -1,6 +1,0 @@
-................
-  layout:slide
-  title:"Welcome to my second slide!"
-................
-    HAI EVERYONE
-    Use the left arrow to go back!
